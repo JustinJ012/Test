@@ -4,8 +4,7 @@ private AddNow()
 	a = 1;
 	b = 2;
 	c = 0;
-	
-	c = a + b;
+	//NO ANSWER
 }
 
 private SubTractNow()
