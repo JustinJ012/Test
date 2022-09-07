@@ -10,4 +10,7 @@ private AddNow()
 private SubTractNow()
 {
 	int a,b,c;
+	a = 5;
+	b = a;
+	c = a - b;
 }
