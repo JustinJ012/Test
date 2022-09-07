@@ -10,5 +10,5 @@ private AddNow()
 
 private SubTractNow()
 {
-	//Minus
+	int a,b,c;
 }
