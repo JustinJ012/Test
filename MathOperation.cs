@@ -7,3 +7,8 @@ private AddNow()
 	
 	c = a + b;
 }
+
+private SubTractNow()
+{
+	//Minus
+}
